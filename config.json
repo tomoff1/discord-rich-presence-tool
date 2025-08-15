@@ -1,0 +1,18 @@
+{
+  "client_id": "PASTE_YOUR_APPLICATION_ID_HERE",
+  "details": "My custom activity",
+  "state": "discord.gg/yourinvite",
+  "large_image": "logo",
+  "large_text": "Hover text",
+  "start_timestamp": true,
+  "buttons": [
+    {
+      "label": "Join",
+      "url": "https://discord.com"
+    },
+    {
+      "label": "Website",
+      "url": "https://example.com"
+    }
+  ]
+}
